@@ -6,4 +6,4 @@ pokemonData.forEach((pkmn) => {
 }
 
 )
-console.log(pokemonData)
+console.log(`O pokemon ${pokemonData[0]} do tipo ${pokemonData[1]}`)
